@@ -73,4 +73,4 @@ Interaja com o sistema e veja a magia acontecer! 🎃
 📜 Licença
 
 Distribuído sob a licença MIT.
-Feito com 🧡 e 🎃 por Isabella Gimenes.
+Feito com 🧡 e 🎃 por Isabella Gimenes, Vitor Farias e Vitor Henrique
